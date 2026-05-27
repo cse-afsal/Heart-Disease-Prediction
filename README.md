@@ -60,10 +60,6 @@ Dataset source: UCI Heart Disease Dataset
 
 - Logistic Regression
 - Decision Tree Classifier
-- Random Forest Classifier
-- Support Vector Machine (SVM)
-- K-Nearest Neighbors (KNN)
-
 ---
 
 ## 📊 Workflow
